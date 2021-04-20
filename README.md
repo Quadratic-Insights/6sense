@@ -4,9 +4,7 @@ This is the unofficial custom template for the 6sense engagement platform.
 
 # Author
 
-Michael Ulrich (https://github.com/Mikeulrich75)
-&
-Quadratic Insights (https://quadraticinsights.com/).
+Quadratic Insights (https://quadraticinsights.com/) & Michael Ulrich (https://github.com/Mikeulrich75.
 
 # Release Notes
 	
