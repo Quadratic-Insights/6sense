@@ -14,5 +14,5 @@
 homepage: "https://6sense.com/"
 documentation: "https://github.com/Quadratic-Insights/6sense/blob/master/README.md"
 versions:
-  - sha: 4922520efcfb12cae6830b684c39749355a84750
+  - sha: 8477246b743b19b3ecc7c7fe2784d21fe234218d
     changeNotes: Initial Version
