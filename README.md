@@ -8,7 +8,7 @@ This is the unofficial custom template for the 6sense engagement platform.
 
 # Developer 
 
-[Michael Ulrich](https://github.com/Mikeulrich75.
+[Michael Ulrich](https://github.com/Mikeulrich75)
 
 # Release Notes
 	
