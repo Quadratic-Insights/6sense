@@ -1,6 +1,6 @@
 # 6sense 
 
-This is the unofficial custom template for the 6sense engagement platform.
+This is the unofficial GTM custom template for the 6sense engagement platform.
 
 # Author
 
